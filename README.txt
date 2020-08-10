@@ -1,6 +1,6 @@
 Put the brain_age_classification project in Pycharm.
 
-Step 3. Obtain data
+Step 1. Obtain data
 
 Unzip raw.zip under brain_age_classification/data directory.
 So there will be a fold called raw, holding all the raw image data under 'data' directory.
